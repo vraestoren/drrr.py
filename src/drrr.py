@@ -1,4 +1,4 @@
-import requests
+from requests import Session
 
 class Drrr:
 	def __init__(self, language: str = "en-US") -> None:
@@ -6,7 +6,7 @@ class Drrr:
 		self.auth_token = None
 		self.client_token = None
 		self.tokens = self.get_tokens()
-		self.session = requests.Session()
+		self.session = Session()
 		self.session.headers = {
 			"User-Agent": "Mozilla/5.0 (Linux; Android 7.1.2; SM-N975F Build/N2G48H; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.120 Mobile Safari/537.36",
 			"Cookie": f"drrr-session-1={self.client_token}"
