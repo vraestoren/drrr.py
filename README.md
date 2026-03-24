@@ -1,4 +1,7 @@
-# drrr.py
+<h1>
+  <img src="https://github.com/user-attachments/assets/281fba2f-ab2e-489b-ae30-6074165b45e1" width="28" style="vertical-align:middle;" />
+  drrr.py
+</h1>
 
 > Web-API for [drrr.com](https://drrr.com) to interact with the Durarara!! Dollars chatroom
 
