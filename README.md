@@ -32,13 +32,13 @@ print(lounge)
 
 ## Features
 
-- 🔐 **Auth** — automatic token handling, login with nickname and icon
-- 🏠 **Rooms** — create, join, leave, and edit chat rooms
-- 💬 **Messaging** — send public or private messages, share URLs
-- 🎵 **Music** — play music in rooms
-- 👥 **Moderation** — kick, ban, transfer host
-- 📋 **Lounge** — browse all available rooms
-- 👤 **Profile** — get your current session info
+-  **Auth** — automatic token handling, login with nickname and icon
+-  **Rooms** — create, join, leave, and edit chat rooms
+-  **Messaging** — send public or private messages, share URLs
+-  **Music** — play music in rooms
+-  **Moderation** — kick, ban, transfer host
+-  **Lounge** — browse all available rooms
+-  **Profile** — get your current session info
 
 ---
 
